@@ -1,0 +1,50 @@
+_repo: The-Span-o-LifeA-Tale-of-Louisbourg--amp--Quebec_33731
+_version: 0.1.0
+alternative_title: 'The Span o'' Life: A Tale of Louisbourg and Quebec'
+contributor:
+  illustrator:
+    agent_name: Myrbach-Rheinfeld, Felician, Freiherr von
+    aliases:
+    - Myrbach von Rheinfeld, Felician, Freiherr
+    - Myrbach, F. de (Felicien)
+    - Myrbach, Baron (Felicien)
+    - Myrbach, Felicien de
+    birthdate: 1853
+    deathdate: 1940
+    gutenberg_agent_id: '36574'
+    url: http://www.gutenberg.org/2009/agents/36574
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: McIlwraith, Jean N. (Jean Newton)
+    aliases:
+    - McIlwraith, J. N. (Jean Newton)
+    - McIlwraith, Jean Newton
+    - Forsyth, Jean
+    - M'Ilwraith, J. N. (Jean Newton)
+    birthdate: 1859
+    deathdate: 1938
+    gutenberg_agent_id: '8605'
+    url: http://www.gutenberg.org/2009/agents/8605
+  - agent_name: McLennan, William
+    birthdate: 1856
+    deathdate: 1904
+    gutenberg_agent_id: '36572'
+    url: http://www.gutenberg.org/2009/agents/36572
+description: ''
+gutenberg_issued: '2010-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33731'
+  lccn: '99001579'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- History -- French and Indian War, 1754-1763 -- Fiction'
+title: 'The Span o'' Life: A Tale of Louisbourg & Quebec'
+url: http://www.gutenberg.org/ebooks/33731
